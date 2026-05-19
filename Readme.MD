@@ -40,23 +40,39 @@ git push -u origin  {Your_Name}
 
 ## Week 1
 
-| Date     | Day       | React Activity                                      |
-|----------|-----------|-----------------------------------------------------|
-| 26 May   | Monday    | Session: Git and Github                             |
-| 27 May   | Tuesday   | GitStartedWithUs                                    |
-| 28 May   | Wednesday | Resources: HTML and CSS                             |
-| 29 May   | Thursday  | Session: HTML                                       |
-| 30 May   | Friday    | Collaborative Task: HTML                            |
-| 31 May   | Saturday  | Session: CSS                                        |
-| 1 June   | Sunday    | Collaborative Task: CSS (Add CSS to previous HTML)  |
+![Week1_Schedule](Assets/Week1.png)
 
 ---
 
 ## Resources for Week 1
 
-Git and GitHub Resources : Release Soon ....
+Git and GitHub Resources :
 
-HTML , CSS Resources : Release Soon ....
+- [Git Explained in 100 seconds - Fireship](https://youtu.be/hwP7WQkmECE?si=rXsvw86_89VDvcPx)
+
+- [Git it ? How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=4SGGydlHQz9NdO9t)
+
+HTML , CSS Resources :
+
+- [MDN Web Docs HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+- [HTML Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet)
+
+- [MDN Web Docs CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+- [Odin Project HTML & CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+- [HTML & CSS for Absolute Begineers - Kevin Powell](https://youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&si=O-GPiMu2mKizZyd9)
+
+- [FlexBox - Kevin Powell](https://youtu.be/u044iM9xsWU?si=TpGMDIlv7j85ZD6F)
+
+- [FlexBox in 10 Minutes - Bro Code](https://youtu.be/GteJWhCikCk?si=9_QkPi4LD0RZKzAQ)
+
+- [CSS Grid - Kevin Powell](https://youtu.be/rg7Fvvl3taU?si=CInjLRIXJRibITJz)
+
+- [CSS Grid - Crash Course](https://youtu.be/0xMQfnTU6oo?si=ap_TKzqQ1rANQ7Nb)
+
+- [CSS Grid Generator](https://cssgridgenerator.io/)
 
 ### HTML Basic Structure
 
@@ -116,39 +132,29 @@ CodePen (For HTML , CSS , JS) - [CodePen Online Editor](https://codepen.io/pen/)
 
 ## Week 2
 
-| Date     | Day       | React Activity                                                                  |
-|----------|---------- |---------------------------------------------------------------------------------|
-| 2 June   | Monday    |Resources:JS                                                                     |
-| 3 June   | Tuesday   | Session: JS                                                                     |
-| 4 June   | Wednesday | -                                                                               |
-| 5 June   | Thursday  | Collaborative Task: JS                                                          |
-| 6 June   | Friday    | Resources: React                                                                |
-| 7 June   | Saturday  | React Intro Session (what is React, components, setup, folder structure)        |
-| 8 June   | Sunday    | Initialize React App (Vite + optional Tailwind, project structure setup)        |
+![Week2_Schedule](Assets/Week2.png)
 
 ---
 
 ## Resources for Week 2
 
-JS Resources : Release Soon ...
+JS Resources :
+
+- [Modern JavaScript Tutorial](https://javascript.info/)
+
+- [Javascript in 100 seconds - Fireship](https://youtu.be/DHjqpvDnNGE?si=nsK5hAiQHYLo0_xs)
+
+- [Learn JavaScript - Freecodecamp](https://youtu.be/PkZNo7MFNFg?si=ESXMszkh6HR8Mc4q)
+
+- [Javascript Crash Course - Traversy Media](https://youtu.be/hdI2bqOjy3c?si=bCEUtdec43AyARuC)
 
 Source for You By Me :
 
 - [JavaScript W3 Schools](https://www.w3schools.com/js/default.asp)
 
-- [React W3 Schools](https://www.w3schools.com/react/default.asp)
-
 ## Week 3
 
-| Date     | Day       | React Activity                                                                 |
-|----------|---------- |--------------------------------------------------------------------------------|
-| 9 June   | Monday    | Collaborative Task: Initialize different screens/files                         |
-| 10 June  | Tuesday   | Resources: React Props & Navigation                                            |
-| 11 June  | Wednesday | -                                                                              |
-| 12 June  | Thursday  | Collaborative Task: Components with props, setup routes                        |
-| 13 June  | Friday    | Resources: State Management, Forms, Inputs                                     |
-| 14 June  | Saturday  | Session: Code Review + next steps discussion                                   |
-| 15 June  | Sunday    | -                                                                              |
+Schedule Will Update Soon .....
 
 ---
 
@@ -158,15 +164,7 @@ Release Soon ...
 
 ## Week 4
 
-| Date     | Day       | React Activity                                                                 |
-|----------|---------- |--------------------------------------------------------------------------------|
-| 16 June  | Monday    | Collaborative Task: Add states to components                                   |
-| 17 June  | Tuesday   | -                                                                              |
-| 18 June  | Wednesday | Task: Layout, Notes Screen, Tasks Screen completion                            |
-| 19 June  | Thursday  | Session: Authentication Basics (JWT)                                           |
-| 20 June  | Friday    | -                                                                              |
-| 21 June  | Saturday  | Task: Set up Authentication                                                    |
-| 22 June  | Sunday    | Complete Frontend Implementation                                               |
+Schedule Will Update Soon .....
 
 ---
 
