@@ -1,6 +1,6 @@
 # DevLabs 2.0
 
-## Steps to Follow for the DevLabs
+## Steps to Follow for the DevLabs Git & Github Session
 
 ### Clone the Repo
 
