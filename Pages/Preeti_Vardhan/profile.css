@@ -1,0 +1,43 @@
+body{
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    font-size:16px;
+    background-color:#f4f4f4;
+    color:#333;
+    margin:0;
+    padding:0; 
+}
+
+img{
+    padding-top: 10px;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+
+#igc h1{
+    color: #dad9b7;
+    text-transform: uppercase;
+}
+
+#igc h2{
+    color: #dad9b7;
+}
+
+#igc{
+    background-color:#2D2533;
+    width:100%;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+    padding:30px 0;
+}
+
+#bni{
+    padding: 1%;
+}
+
+a {
+    padding: 1%;
+}
