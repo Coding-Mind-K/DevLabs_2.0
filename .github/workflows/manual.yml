@@ -16,11 +16,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Enable auto merge
-        uses: peter-evans/enable-pull-request-automerge@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          merge-method: squash
+        run: |
+          gh pr merge ${{ github.event.pull_request.number }} \
+            --squash \
+            --auto
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
